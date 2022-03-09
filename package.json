@@ -1,5 +1,5 @@
 {
-  "name": "loopback-connector-redis",
+  "name": "@aparraga/loopback-connector-redis",
   "version": "3.0.0",
   "description": "The official Redis connector for the LoopBack Framework.",
   "engines": {
@@ -42,5 +42,9 @@
     "async": "^2.6.1",
     "redis": "^2.8.0",
     "strong-globalize": "^4.1.1"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "test"
   }
 }
